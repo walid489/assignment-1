@@ -358,7 +358,7 @@ header .header-wraper .resume:hover::after{
     padding: 49px 0 80px;
 }
 #support .support-box{
-    background: url("/images/handshake.jpg");
+    background: url("../images/handshake.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
