@@ -94,7 +94,7 @@ header .header-wraper .resume:hover::after{
 /* ========== header end ========== */
 /* ========== banner start ========== */
 #banner{
-    background: url("/images/bannerbg.png");
+    background: url("../images/bannerbg.png");
     padding: 26px 0 45px;
 }
 #banner .banner-main{
